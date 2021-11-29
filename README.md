@@ -64,6 +64,6 @@ I will try and do learn more about complex frontend coding like adding some Java
 ## Author
 
 - Website - Khalil Gibran Coral(https://lhilloo.github.io/fcb-portfolio-lhilloo/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@lhilloo](https://www.frontendmentor.io/profile/lhilloo)
 
 
