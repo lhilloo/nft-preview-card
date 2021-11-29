@@ -32,9 +32,9 @@ p {
     background-color: hsl(216, 50%, 16%);
     padding: 15px;
     display: flex;
-align-items: center;
+    align-items: center;
     justify-content: center;
-    flex-direction: column;
+    flex-direction: column; 
 
 }
 
